@@ -1,5 +1,5 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Im Velkumaran A P
+# Hello, Im Velkumaran A P! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Software Engineer Student !!
 
