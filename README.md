@@ -3,7 +3,7 @@
 
 ## I'm a Software Engineer Student !!
 
-- 🌱 Incoming Intern at EXL Service
+- 🌱 Intern at EXL Service
 - 👯 I’m looking to collaborate with other peoples to make exciting projects
 
 ### Connect with me:
